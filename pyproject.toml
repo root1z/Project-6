@@ -1,0 +1,15 @@
+[project]
+name = "export-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bson>=0.5.10",
+    "colorlog>=6.9.0",
+    "dotenv>=0.9.9",
+    "google>=3.0.0",
+    "google-cloud-storage>=3.4.0",
+    "pyarrow>=21.0.0",
+    "pymongo>=4.15.0",
+]

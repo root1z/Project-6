@@ -1,0 +1,14 @@
+# Bỏ file môi trường
+.env
+.env.*
+
+# Bỏ thư mục log
+*.logs
+
+# Bỏ cache Python
+__pycache__/
+*.pyc
+
+# Bỏ thư mục node_modules (nếu project JS/TS)
+node_modules/
+
